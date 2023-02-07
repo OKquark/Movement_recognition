@@ -1,5 +1,5 @@
 # Movement_recognition
-Educational project with SpineWise company
+Educational project with SpineWise company.
 The SpineWise company kindly provided their movement sensor data for processing and creating a model for human movements recognition. The main concept of the project is to recognize movements of employees, e.g.supermarkets (walking, types of bending, crouching,…). 
 
 Especially harmful movements for the neck and the back should be detected. The recognition of workers activity enables the client to provide proactive recommendations and prevent the health damaging movements of workers. 
